@@ -12,3 +12,6 @@ server:
     http2:
       enabled: true
 
+spring:
+  pid:
+    file: boot-paas.pid
