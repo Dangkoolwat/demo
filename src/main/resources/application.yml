@@ -14,4 +14,4 @@ server:
 
 spring:
   pid:
-    file: boot-paas.pid
+    file: springboot.pid
